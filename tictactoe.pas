@@ -152,9 +152,8 @@ begin
     writeln ('                [4, 5, 6]                ');
     writeln ('                [7, 8, 9]                ');
     writeln ('-----------------------------------------');
-    writeln ('1: is the User1 and represent the "X"');
     writeln ('0: is the IA and represent the "O"');
-    writeln ('2: are the empty positions');
+    writeln ('1: is the User1 and represent the "X"');    
     writeln ('-----------------------------------------');
     writeln ('You need to insert numbers between 1-9');
     writeln ('=========================================');
