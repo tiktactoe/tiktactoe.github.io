@@ -26,6 +26,19 @@ var
     usermsg, message: string;
 
 {
+    This function prints characters
+}    
+function printCharacter(j: integer): Char;
+    begin
+        if (board[j]=0) then
+            exit('O');
+        if (board[j]=1) then
+            exit('X');
+        if (board[j]=2) then
+            exit(' ');
+    end;
+
+{
     This function let us initialize the board with empty values represent by the number 2
 }
 function start_board(): real;
@@ -74,11 +87,11 @@ end;
 }
 function print_board(): real;
 begin
-    
+
     writeln('==================', usermsg, '==================');
-    writeln('                [', board[1], ', ', board[2], ', ', board[3], ']');
-    writeln('                [', board[4], ', ', board[5], ', ', board[6], ']');
-    writeln('                [', board[7], ', ', board[8], ', ', board[9], ']');
+    writeln('                [', printCharacter(1), ', ', printCharacter(2), ', ', printCharacter(3), ']');
+    writeln('                [', printCharacter(4), ', ', printCharacter(5), ', ', printCharacter(6), ']');
+    writeln('                [', printCharacter(7), ', ', printCharacter(8), ', ', printCharacter(9), ']');
     writeln('=========================================');
 end;
 {
