@@ -89,9 +89,9 @@ function print_board(): real;
 begin
 
     writeln('==================', usermsg, '==================');
-    writeln('                [', printCharacter(1), ', ', printCharacter(2), ', ', printCharacter(3), ']');
-    writeln('                [', printCharacter(4), ', ', printCharacter(5), ', ', printCharacter(6), ']');
-    writeln('                [', printCharacter(7), ', ', printCharacter(8), ', ', printCharacter(9), ']');
+    writeln('                [', printCharacter(1), ' | ', printCharacter(2), '| ', printCharacter(3), ']');
+    writeln('                [', printCharacter(4), ' | ', printCharacter(5), '| ', printCharacter(6), ']');
+    writeln('                [', printCharacter(7), ' | ', printCharacter(8), '| ', printCharacter(9), ']');
     writeln('=========================================');
 end;
 {
@@ -148,9 +148,9 @@ begin
         print all the rules and how it works
     }
     writeln ('==================Guide==================');
-    writeln ('                [1, 2, 3]                ');
-    writeln ('                [4, 5, 6]                ');
-    writeln ('                [7, 8, 9]                ');
+    writeln ('                [1 | 2| 3]                ');
+    writeln ('                [4 | 5| 6]                ');
+    writeln ('                [7 | 8| 9]                ');
     writeln ('-----------------------------------------');
     writeln ('0: is the IA and represent the "O"');
     writeln ('1: is the User1 and represent the "X"');    
