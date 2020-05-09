@@ -38,7 +38,6 @@ Hack day: TicTacToe challenge
 _**0. Evaluation: "How to" posts**__
 
 ---
----
 ### Blog Link
 * Blog: [Link](https://tiktactoe.github.io/blog/)
 
