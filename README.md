@@ -6,6 +6,11 @@
 ### Description
 Implementing the Tic Tac Toe game.
 
+![Step1](/images/Step_1.png)
+![Step2](/images/Step_2.png)
+![Step3](/images/Step_3.png)
+![Step4](/images/Step_4.png)
+
 ---
 ### Language
 * Pascal
