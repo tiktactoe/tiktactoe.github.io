@@ -3,15 +3,15 @@
 
 ### Description
 Implementing the Tic Tac Toe game.
-
+---
 ## Language
 
 * Pascal
-
+---
 ### Task
 
 _**0. Evaluation: "How to" posts**__
-
+---
 ### Authors
 #### Aiko Mi
 - Github: [elisa2105](https://github.com/elisa2105)
