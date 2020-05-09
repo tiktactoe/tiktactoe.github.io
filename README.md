@@ -8,9 +8,9 @@ Implementing the Tic Tac Toe game.
 
 <p align="center">
    <img src="/images/Step_1.png">
-   <img src="/images/Step_1.png">
-   <img src="/images/Step_1.png">
-   <img src="/images/Step_1.png">
+   <img src="/images/Step_2.png">
+   <img src="/images/Step_3.png">
+   <img src="/images/Step_4.png">
 </p>
 
 ---
