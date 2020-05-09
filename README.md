@@ -6,6 +6,7 @@
 ### Description
 Implementing the Tic Tac Toe game.
 
+---
 ### Repository contents
 Hack day: TicTacToe challenge
 
