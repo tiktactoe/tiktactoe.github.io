@@ -16,6 +16,16 @@ Implementing the Tic Tac Toe game.
    <img src="/images/Step_4.png">
 </p>
 
+### Repository contents
+Hack day: TicTacToe challenge
+
+|   **File**   |   **Description**   |
+| -------------- | --------------------- |
+|tictactoe.pas | Contains the TicTacToe challenge code in pascal. |
+|_config.yml | Contains the jekyll theme minimal for the blog. | 
+|images\ | Contains images for the challenge. |
+|README.md | Readme file. |
+
 ---
 ### Language
 * Pascal
