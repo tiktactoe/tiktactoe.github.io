@@ -6,10 +6,12 @@
 ### Description
 Implementing the Tic Tac Toe game.
 
-![Step1](/images/Step_1.png)
-![Step2](/images/Step_2.png)
-![Step3](/images/Step_3.png)
-![Step4](/images/Step_4.png)
+<p align="center">
+   <img src="/images/Step_1.png">
+   <img src="/images/Step_1.png">
+   <img src="/images/Step_1.png">
+   <img src="/images/Step_1.png">
+</p>
 
 ---
 ### Language
