@@ -38,6 +38,11 @@ Hack day: TicTacToe challenge
 _**0. Evaluation: "How to" posts**__
 
 ---
+---
+### Blog Link
+* Blog: [Link](https://tiktactoe.github.io/blog/)
+
+---
 ### Authors
 #### Aiko Mi
 * Github: [elisa2105](https://github.com/elisa2105)
